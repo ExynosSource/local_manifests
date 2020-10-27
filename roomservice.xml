@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="ExynosSource/android_device_samsung_smdk7570" path="device/samsung/smdk7570" remote="github" revision="master" />
+  <project name="ExynosSource/android_kernel_samsung_smdk7570" path="kernel/samsung/smdk7570" remote="github" revision="master" />
+  <project name="ExynosSource/android_zinnia-prebuilt" path="zinnia-prebuilt" remote="github" revision="master" />
+  <project name="ExynosSource/android_art_exynos_compiler" path="art/exynos_compiler" remote="github" revision="master" />
+  <project name="ExynosSource/android_hardware_samsung_slsi" path="hardware/samsung_slsi" remote="github" revision="master" />
+  <project name="ExynosSource/android_hardware_broadcom_libbt_conf_samsung_smdk7270" path="hardware/broadcom/libbt/conf/samsung/smdk7270" remote="github" revision="master" />
+  <project name="ExynosSource/android_hardware_broadcom_wlan_bcmdhd_firmware_bcm43438" path="hardware/broadcom/wlan/bcmdhd/firmware/bcm43438" remote="github" revision="master" />
+  <project name="ExynosSource/android_vendor_ThunderSoft" path="vendor/ThunderSoft" remote="github" revision="master" />
+  <project name="ExynosSource/android_vendor_samsung_slsi" path="vendor/samsung_slsi" remote="github" revision="master" />
+</manifest>
